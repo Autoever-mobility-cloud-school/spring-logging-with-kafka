@@ -1,0 +1,8 @@
+spring:
+  kafka:
+    bootstrap-servers: 13.125.31.93:9092
+    producer:
+      key-deserializer: org.apache.kafka.common.StringSerializer
+      value-deserializer: org.apache.kafka.common.serialization.StringSerializer
+    template:
+      default-topic: log-topic
