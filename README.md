@@ -8,10 +8,13 @@ AWS EC2 인스턴스에 카프카를 설치하고, Spring Boot 애플리케이�
 <br/>
 
 ## 1. 카프카를 이용하여 메시지 주고 받기
+- LoggingApplication/
 - 티스토리 블로그: [카프카(Kafka) 이용하여 메시지 주고받기](https://ynslee627.tistory.com/312)
 
 ## 2. 카프카를 이용하여 스프링부트 로그 메시지 전송하기
+- LogSend/
 - 티스토리 블로그: [카프카를 이용한 로그 전송 애플리케이션 구현: Spring Boot, Kafka](https://ynslee627.tistory.com/313)
 
 ## 3. 카프카로부터 메시지 수신하여 로그 파일 S3 버킷에 업로드하기
+- LogToS3/
 - 티스토리 블로그: [카프카로부터 메시지를 받아서 S3에 업로드하는 애플리케이션 구현: Spring Boot, Kafka, AWS S3](https://ynslee627.tistory.com/314)
