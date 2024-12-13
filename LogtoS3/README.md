@@ -6,7 +6,6 @@
 > - Java 17
 > - JDK 17
 > - Spring Boot 3.4.0
-> - AWS EC2: t2.medium, ubuntu
 > - AWS S3
 
 <br/>
